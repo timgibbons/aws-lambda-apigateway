@@ -17,10 +17,10 @@
       <img alt="User Stars" src="https://img.shields.io/github/stars/timgibbons?style=social" />
     </a>
     <a href="https://github.com/timgibbons/aws-lambda-apigateway">
-      <img alt="Repo Stars" src="https://img.shields.io/github/stars/timgibbons/aws-lambda-apigateway?style=social" />
+      <img alt="Repo Stars" src="https://img.shields.io/github/stars/timgibbons/aws-lambda-apigateway?label=Reop Stars" />
     </a>
     <a href="https://github.com/timgibbons/aws-lambda-apigateway">
-      <img alt="Repo Forks" src="https://img.shields.io/github/forks/timgibbons/aws-lambda-apigateway?style=social" />
+      <img alt="Repo Forks" src="https://img.shields.io/github/forks/timgibbons/aws-lambda-apigateway?label=Repo Forks" />
     </a>
 
   </p>
